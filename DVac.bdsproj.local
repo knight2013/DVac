@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.05.28 00:59:31.841.pas,C:\Documents and Settings\John\My Documents\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\John\Desktop\DVac\main.pas</Transaction>
+    <Transaction>2012.05.28 00:59:31.871.dfm,C:\Documents and Settings\John\My Documents\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\John\Desktop\DVac\main.dfm</Transaction>
+    <Transaction>2012.05.28 00:59:39.782.bdsproj,C:\Documents and Settings\John\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\John\Desktop\DVac\DVac.bdsproj</Transaction>
+    <Transaction>2012.05.28 01:01:20.337.pas,C:\Documents and Settings\John\Desktop\DVac\Unit1.pas=C:\Documents and Settings\John\Desktop\DVac\FolderTreeClass.pas</Transaction>
+    <Transaction>2012.05.28 01:23:48.229.pas,C:\Documents and Settings\John\Desktop\DVac\Unit1.pas=C:\Documents and Settings\John\Desktop\DVac\FileUtilUnit.pas</Transaction>
+    <Transaction>2012.05.28 07:44:53.005.pas,C:\Documents and Settings\John\Desktop\DVac\Unit2.pas=C:\Documents and Settings\John\Desktop\DVac\ThumbViewerClass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
